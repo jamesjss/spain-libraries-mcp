@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ugr",
+    "name": "University of Granada Library (example custom catalog)",
+    "scope": "University of Granada collections",
+    "protocol": "z3950",
+    "host": "31.186.254.136",
+    "port": 1921,
+    "database": "34CBUA_UGR",
+    "charset": "marc8",
+    "holdings_profile": "alma",
+    "regions": ["andalucia"],
+    "verified": false,
+    "source": "https://biblioteca.ugr.es/informacion/documentos/parametros-z39-50"
+  },
+  { "id": "ccpb", "active": true }
+]

@@ -1,0 +1,4 @@
+# OPTIONAL library directory: maps the code or name returned by a catalog to its municipality.
+# Empty catalog = applies to any catalog. `key` is matched against the holding's `library`
+# or `location` field (case- and accent-insensitive).
+catalog,key,name,municipality

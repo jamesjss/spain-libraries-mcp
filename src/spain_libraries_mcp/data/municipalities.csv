@@ -1,0 +1,25 @@
+# APPROXIMATE coordinates (town center, ~1 km accuracy) for municipalities in the Barcelona area,
+# bundled so proximity search works out of the box without downloading anything.
+# For full Catalonia coverage with official data: spain-libraries-update-municipalities
+name,province,county,region,lat,lon,approx
+Badalona,Barcelona,Barcelonès,cataluna,41.4503,2.2474,1
+Badia del Vallès,Barcelona,Vallès Occidental,cataluna,41.5161,2.1108,1
+Barberà del Vallès,Barcelona,Vallès Occidental,cataluna,41.5128,2.1253,1
+Barcelona,Barcelona,Barcelonès,cataluna,41.3874,2.1686,1
+Cerdanyola del Vallès,Barcelona,Vallès Occidental,cataluna,41.4914,2.1409,1
+Granollers,Barcelona,Vallès Oriental,cataluna,41.6081,2.2886,1
+L'Hospitalet de Llobregat,Barcelona,Barcelonès,cataluna,41.3596,2.0997,1
+Mollet del Vallès,Barcelona,Vallès Oriental,cataluna,41.5393,2.2130,1
+Montcada i Reixac,Barcelona,Vallès Occidental,cataluna,41.4833,2.1883,1
+Montmeló,Barcelona,Vallès Oriental,cataluna,41.5535,2.2465,1
+Ripollet,Barcelona,Vallès Occidental,cataluna,41.4972,2.1590,1
+Rubí,Barcelona,Vallès Occidental,cataluna,41.4934,2.0325,1
+Sabadell,Barcelona,Vallès Occidental,cataluna,41.5463,2.1086,1
+Sant Adrià de Besòs,Barcelona,Barcelonès,cataluna,41.4300,2.2190,1
+Sant Cugat del Vallès,Barcelona,Vallès Occidental,cataluna,41.4720,2.0865,1
+Sant Feliu de Llobregat,Barcelona,Baix Llobregat,cataluna,41.3836,2.0467,1
+Sant Fost de Campsentelles,Barcelona,Vallès Occidental,cataluna,41.4938,2.2184,1
+Sant Quirze del Vallès,Barcelona,Vallès Occidental,cataluna,41.5328,2.0828,1
+Santa Coloma de Gramenet,Barcelona,Barcelonès,cataluna,41.4515,2.2080,1
+Santa Perpètua de Mogoda,Barcelona,Vallès Occidental,cataluna,41.5360,2.1800,1
+Terrassa,Barcelona,Vallès Occidental,cataluna,41.5632,2.0089,1

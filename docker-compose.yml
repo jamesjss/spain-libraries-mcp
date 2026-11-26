@@ -1,0 +1,13 @@
+services:
+  spain-libraries-mcp:
+    build: .
+    image: spain-libraries-mcp:0.2.1
+    container_name: spain-libraries-mcp
+    restart: unless-stopped
+    ports:
+      - "8000:8000"   # MCP endpoint: http://<host>:8000/mcp
+    environment:
+      SPAIN_LIBRARIES_TIMEOUT: "20"
+      # SPAIN_LIBRARIES_CATALOGS: /config/catalogs.json
+    # volumes:
+    #   - ./examples/extra-catalogs.json:/config/catalogs.json:ro

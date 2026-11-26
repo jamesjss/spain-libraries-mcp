@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "spain-libraries": {
+      "command": "uvx",
+      "args": ["--from", "/path/to/spain-libraries-mcp", "spain-libraries-mcp"],
+      "env": { "SPAIN_LIBRARIES_TIMEOUT": "20" }
+    }
+  }
+}
